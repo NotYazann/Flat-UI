@@ -511,12 +511,12 @@ h1, h2, h3, h4, h5, h6,
   font-family: inherit;
   font-weight: 700;
   line-height: 1.1;
-  color: inherit;
+  color: #ECF0F1;
 }
 
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small,
 .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small {
-  color: #e7e9ec;
+  color: #ECF0F1;
 }
 
 h1,
